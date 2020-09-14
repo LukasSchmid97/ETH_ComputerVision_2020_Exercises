@@ -1,0 +1,1 @@
+# Collection of exercises from the Visual Computing Course at ETH in 2020
